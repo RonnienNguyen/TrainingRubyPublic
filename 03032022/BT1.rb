@@ -1,6 +1,8 @@
 valueArr = Array.new
 minValue = 0
 
+
+# ffff
 maxValue = 99
 puts "Nhap vao mang gom N phan tu: "
 while
